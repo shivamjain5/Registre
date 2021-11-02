@@ -1,0 +1,33 @@
+body{
+  background-color: #ADC2A9;
+}
+.b1{
+  margin-left: 500px;
+  margin-top:200px;
+  width: 500px;
+  height: 200px;
+  border-style: dashed;
+}
+.b2{
+  margin-left: 100px;
+}
+.b3{
+  margin-left: 30px;
+}
+.bt{
+  width: 100px;
+  height: 50px;
+  margin-left: 70px;
+  margin-top: 20px;
+  border-radius: 10px;
+
+}
+.pp{
+  margin: 0px;
+  font-size: 20px;
+  text-align: center;
+}
+.d4{
+  margin: 0px;
+  padding: 0px;
+}

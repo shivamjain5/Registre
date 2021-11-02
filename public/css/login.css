@@ -1,0 +1,38 @@
+body{
+  background-color:  #ADC2A9;
+}
+.d2{
+  width: 500px;
+  margin-left: 35%;
+  margin-top:10%;
+  border-style: double;
+}
+.d3{
+  width: 300px;
+  display: block;
+  height: 50px;
+  margin-top: 20px;
+  margin-left: 90px;
+  border-style: hidden;
+  border-bottom-style: solid;
+}
+.d4{
+  margin-left:  180px;
+  margin-top: 20px;
+  border-radius: 10px;
+  border-style: groove;
+  width: 100px;
+  height: 30px;
+}
+.d5{
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: 10px;
+
+}
+
+.d6{
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 0px;
+}

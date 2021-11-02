@@ -1,0 +1,38 @@
+body{
+  background-color: #FEF5ED;
+}
+.d1{
+  background-color: #ADC2A9 ;
+  height: 600px;
+  width: 70%;
+  margin-left: 15%;
+  border-radius: 0px 0px 500px 500px;
+  margin-bottom: 0px;
+}
+.d2{
+  margin-left: 25%;
+
+
+}
+.d4{
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+.d5{
+  margin-top: 20px;
+  width: 300px;
+  height: 30px;
+  display: inline;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+.d6{
+  font-size: 20px;
+}
+.d7{
+  margin-left: 120px;
+  margin-top: 30px;
+  width: 150px;
+  height: 55px;
+  border-radius: 5px;
+}
